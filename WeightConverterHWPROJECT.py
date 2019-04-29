@@ -98,7 +98,7 @@ def main():
                 entry4.setText(round(ounces,2))
                 win.getMouse()
                 
-                win.close()
+                
 
                 print("Gram:",(round(gram,2)))
                 print("Kilograms:",(round(kilograms,2)))

@@ -22,7 +22,6 @@ def main():
     '''This is the entry the user will enter in pounds to convert'''
     entry1 = Entry(Point (240, 100),30)
     entry1.setFill("white")
-    #entry1.setText("INVAILD INPUT,PLEASE enter a NUMBER under the entry.")
     entry1.draw(win)
 
     wclb = Text(Point(390 ,100) , "lb")

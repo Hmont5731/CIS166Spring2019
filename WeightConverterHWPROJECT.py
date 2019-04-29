@@ -5,8 +5,7 @@ date: 04/23/19
 description: This program converts lb in grams,kilograms and ounces
 '''
 
-import tkinter
-from tkinter.constants import*
+
 from graphics import *
 def main():
     ''' This creates the size of the window and the name'''
